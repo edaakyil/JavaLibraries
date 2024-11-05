@@ -9,7 +9,7 @@
 	All Right Free
 -------------------------------------------------------------*/
 
-package org.csystem.util.thread;
+package com.edaakyil.util.thread;
 
 public final class ThreadUtil {
     private ThreadUtil()

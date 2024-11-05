@@ -8,7 +8,7 @@
 	Copyleft (c) 1993 C and System Programmers Association
 	All Right Free
 -------------------------------------------------------------*/
-package org.csystem.util.collection;
+package com.edaakyil.util.collection;
 
 import java.util.*;
 import java.util.function.Function;

@@ -8,7 +8,7 @@
 	Copyleft (c) 1993 C and System Programmers Association
 	All Right Free
 -------------------------------------------------------------*/
-package org.csystem.util.numeric;
+package com.edaakyil.util.numeric;
 
 import java.math.BigInteger;
 import java.util.OptionalDouble;

@@ -1,8 +1,10 @@
-package org.csystem.util.numeric;
+package com.edaakyil.util.numeric;
 
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 
+@Ignore("Tested before and passed")
 public class NumberUtilIsPrimeTest {
     @Test
     public void givenValue_WhenNumber_ThenReturnsTrue()

@@ -8,7 +8,7 @@
 	Copyleft (c) 1993 C and System Programmers Association
 	All Right Free
 -------------------------------------------------------------*/
-package org.csystem.util.string;
+package com.edaakyil.util.string;
 
 import java.util.ArrayList;
 import java.util.HashMap;

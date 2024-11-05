@@ -8,7 +8,7 @@
 	Copyleft (c) 1993 C and System Programmers Association
 	All Right Free
 -------------------------------------------------------------*/
-package org.csystem.util.console;
+package com.edaakyil.util.console;
 
 import java.util.Scanner;
 

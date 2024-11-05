@@ -8,7 +8,7 @@
 	Copyleft (c) 1993 C and System Programmers Association
 	All Right Free
 -------------------------------------------------------------*/
-package org.csystem.util.bitwise;
+package com.edaakyil.util.bitwise;
 
 public final class BitwiseUtil {
     private BitwiseUtil()

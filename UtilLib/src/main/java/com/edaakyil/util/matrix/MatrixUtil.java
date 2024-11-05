@@ -8,9 +8,9 @@
 	Copyleft (c) 1993 C and System Programmers Association
 	All Right Free
 -------------------------------------------------------------*/
-package org.csystem.util.matrix;
+package com.edaakyil.util.matrix;
 
-import org.csystem.util.array.ArrayUtil;
+import com.edaakyil.util.array.ArrayUtil;
 
 import java.util.Arrays;
 import java.util.random.RandomGenerator;

@@ -8,7 +8,7 @@
 	Copyleft (c) 1993 C and System Programmers Association
 	All Right Free
 -------------------------------------------------------------*/
-package org.csystem.util.iterable;
+package com.edaakyil.util.iterable;
 
 public final class IterableUtil {
     private IterableUtil()
