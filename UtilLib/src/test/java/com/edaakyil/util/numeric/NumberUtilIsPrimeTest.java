@@ -4,8 +4,8 @@ import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
 
-@Ignore("Tested before and passed")
 public class NumberUtilIsPrimeTest {
+    @Ignore("Tested before")
     @Test
     public void givenValue_WhenNumber_ThenReturnsTrue()
     {
@@ -14,6 +14,7 @@ public class NumberUtilIsPrimeTest {
         Assert.assertTrue(NumberUtil.isPrime(input));
     }
 
+    @Ignore("Tested before")
     @Test
     public void givenValue_WhenNumber_ThenReturnsFalse()
     {

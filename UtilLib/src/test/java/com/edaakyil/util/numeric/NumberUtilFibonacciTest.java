@@ -4,8 +4,8 @@ import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
 
+@Ignore("Tested before and passed")
 public class NumberUtilFibonacciTest {
-    @Ignore("Tested before and passed")
     @Test
     public void givenValue_WhenIndex_ThenReturnsNumber()
     {
