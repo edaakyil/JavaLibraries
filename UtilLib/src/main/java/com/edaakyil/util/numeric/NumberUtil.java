@@ -464,6 +464,7 @@ public final class NumberUtil {
 
         return result;
     }
+
     public static int sumFactors(long val)
     {
         var result = 1;
@@ -475,7 +476,6 @@ public final class NumberUtil {
 
         return result;
     }
-
 
 
     public static OptionalInt toInt(String str)
